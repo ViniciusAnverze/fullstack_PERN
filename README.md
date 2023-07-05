@@ -1,7 +1,7 @@
 <h1>FULL STACK PERN APPLICATION</h1>
 <h2>ABOUT</h2>
 <p>This project was made with the purpose of migrating my knoledge of fullstack applications to PERN technologies (PostgreSQL, Express.JS, React.JS and Node.JS).</p>
-<p>I decided to create a simple CRUD application in this project as my intention was to utilize and apply my former full stack knowledge.</h2>
+<p>I decided to create a simple CRUD application in this project as my intention was solely to utilize and apply my previous full stack knowledge in the following technologies.</h2>
 <h2>TECHNOLOGIES</h2>
 <ul>
       <li><strong>JavaScript<strong>
